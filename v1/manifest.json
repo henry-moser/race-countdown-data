@@ -14,7 +14,6 @@
       "calendar": "motogp/2027.json"
     }
   ],
-  "dataType": "fictional-test-data",
   "calendars": [
     {
       "seriesId": "f1",
@@ -25,6 +24,11 @@
       "seriesId": "motogp",
       "season": 2027,
       "path": "motogp/2027.json"
+    },
+    {
+      "seriesId": "f1",
+      "season": 2026,
+      "path": "f1/2026.json"
     }
   ]
 }

@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "seriesId": "f1",
+  "season": 2027,
+  "events": [
+    {
+      "id": "f1-2027-bahrain",
+      "round": 1,
+      "name": "Bahrain Grand Prix",
+      "country": "BH",
+      "circuit": "Bahrain International Circuit",
+      "timeZone": "Asia/Bahrain",
+      "sessions": [
+        {
+          "id": "f1-2027-bahrain-fp1",
+          "type": "practice",
+          "name": "1. Freies Training",
+          "start": "2027-03-05T11:30:00Z",
+          "end": "2027-03-05T12:30:00Z"
+        },
+        {
+          "id": "f1-2027-bahrain-fp2",
+          "type": "practice",
+          "name": "2. Freies Training",
+          "start": "2027-03-05T15:00:00Z",
+          "end": "2027-03-05T16:00:00Z"
+        },
+        {
+          "id": "f1-2027-bahrain-fp3",
+          "type": "practice",
+          "name": "3. Freies Training",
+          "start": "2027-03-06T12:30:00Z",
+          "end": "2027-03-06T13:30:00Z"
+        },
+        {
+          "id": "f1-2027-bahrain-qualifying",
+          "type": "qualifying",
+          "name": "Qualifying",
+          "start": "2027-03-06T15:00:00Z",
+          "end": "2027-03-06T16:00:00Z"
+        },
+        {
+          "id": "f1-2027-bahrain-race",
+          "type": "race",
+          "name": "Rennen",
+          "start": "2027-03-07T15:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "f1-2027-australia",
+      "round": 2,
+      "name": "Australian Grand Prix",
+      "country": "AU",
+      "circuit": "Albert Park Circuit",
+      "timeZone": "Australia/Melbourne",
+      "sessions": [
+        {
+          "id": "f1-2027-australia-fp1",
+          "type": "practice",
+          "name": "1. Freies Training",
+          "start": "2027-03-19T01:30:00Z",
+          "end": "2027-03-19T02:30:00Z"
+        },
+        {
+          "id": "f1-2027-australia-fp2",
+          "type": "practice",
+          "name": "2. Freies Training",
+          "start": "2027-03-19T05:00:00Z",
+          "end": "2027-03-19T06:00:00Z"
+        },
+        {
+          "id": "f1-2027-australia-fp3",
+          "type": "practice",
+          "name": "3. Freies Training",
+          "start": "2027-03-20T01:30:00Z",
+          "end": "2027-03-20T02:30:00Z"
+        },
+        {
+          "id": "f1-2027-australia-qualifying",
+          "type": "qualifying",
+          "name": "Qualifying",
+          "start": "2027-03-20T05:00:00Z",
+          "end": "2027-03-20T06:00:00Z"
+        },
+        {
+          "id": "f1-2027-australia-race",
+          "type": "race",
+          "name": "Rennen",
+          "start": "2027-03-21T04:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "f1-2027-japan",
+      "round": 3,
+      "name": "Japanese Grand Prix",
+      "country": "JP",
+      "circuit": "Suzuka",
+      "timeZone": "Asia/Tokyo",
+      "sessions": [
+        {
+          "id": "f1-2027-japan-fp1",
+          "type": "practice",
+          "name": "1. Freies Training",
+          "start": "2027-04-02T02:30:00Z",
+          "end": "2027-04-02T03:30:00Z"
+        },
+        {
+          "id": "f1-2027-japan-fp2",
+          "type": "practice",
+          "name": "2. Freies Training",
+          "start": "2027-04-02T06:00:00Z",
+          "end": "2027-04-02T07:00:00Z"
+        },
+        {
+          "id": "f1-2027-japan-fp3",
+          "type": "practice",
+          "name": "3. Freies Training",
+          "start": "2027-04-03T02:30:00Z",
+          "end": "2027-04-03T03:30:00Z"
+        },
+        {
+          "id": "f1-2027-japan-qualifying",
+          "type": "qualifying",
+          "name": "Qualifying",
+          "start": "2027-04-03T06:00:00Z",
+          "end": "2027-04-03T07:00:00Z"
+        },
+        {
+          "id": "f1-2027-japan-race",
+          "type": "race",
+          "name": "Rennen",
+          "start": "2027-04-04T05:00:00Z"
+        }
+      ]
+    }
+  ],
+  "dataType": "fictional-test-data"
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "seriesId": "motogp",
+  "season": 2027,
+  "events": [
+    {
+      "id": "motogp-2027-italy-test",
+      "round": 1,
+      "name": "Italian Grand Prix (fiktiv)",
+      "country": "IT",
+      "circuit": "Mugello",
+      "timeZone": "Europe/Rome",
+      "sessions": [
+        {
+          "id": "motogp-2027-italy-practice",
+          "type": "practice",
+          "name": "Training",
+          "start": "2027-04-02T08:00:00Z"
+        },
+        {
+          "id": "motogp-2027-italy-qualifying",
+          "type": "qualifying",
+          "name": "Qualifying",
+          "start": "2027-04-03T07:00:00Z"
+        },
+        {
+          "id": "motogp-2027-italy-sprint",
+          "type": "sprint",
+          "name": "Sprint",
+          "start": "2027-04-03T12:00:00Z"
+        },
+        {
+          "id": "motogp-2027-italy-race",
+          "type": "race",
+          "name": "Rennen",
+          "start": "2027-04-04T12:00:00Z"
+        }
+      ]
+    }
+  ],
+  "dataType": "fictional-test-data"
+}

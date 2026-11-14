@@ -26,6 +26,11 @@
       "path": "motogp/2027.json"
     },
     {
+      "seriesId": "motogp",
+      "season": 2026,
+      "path": "motogp/2026.json"
+    },
+    {
       "seriesId": "f1",
       "season": 2026,
       "path": "f1/2026.json"

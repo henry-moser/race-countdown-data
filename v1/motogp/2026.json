@@ -6,7 +6,7 @@
     {
       "id": "motogp-2026-portugal",
       "round": 21,
-      "name": "Portuguese Grand Prix",
+      "name": "🇵🇹 Portuguese Grand Prix",
       "country": "PT",
       "circuit": "Algarve International Circuit",
       "timeZone": "Europe/Lisbon",
@@ -64,7 +64,7 @@
     {
       "id": "motogp-2026-valencia",
       "round": 22,
-      "name": "Valencia Grand Prix",
+      "name": "🇪🇸 Valencia Grand Prix",
       "country": "ES",
       "circuit": "Circuit Ricardo Tormo",
       "timeZone": "Europe/Madrid",

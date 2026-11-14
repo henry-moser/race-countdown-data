@@ -6,7 +6,7 @@
     {
       "id": "f1-2026-las-vegas",
       "round": 21,
-      "name": "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026",
+      "name": "🇺🇸 Las Vegas GP 2026",
       "country": "US",
       "circuit": "Las Vegas Strip Circuit",
       "timeZone": "America/Los_Angeles",
@@ -46,7 +46,7 @@
     {
       "id": "f1-2026-qatar",
       "round": 22,
-      "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026",
+      "name": "🇶🇦 Qatar GP 2026",
       "country": "QA",
       "circuit": "Lusail International Circuit",
       "timeZone": "Asia/Qatar",
@@ -86,7 +86,7 @@
     {
       "id": "f1-2026-abu-dhabi",
       "round": 23,
-      "name": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026",
+      "name": "🇦🇪 Abu Dhabi GP 2026",
       "country": "AE",
       "circuit": "Yas Marina Circuit",
       "timeZone": "Asia/Dubai",

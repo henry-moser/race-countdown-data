@@ -5,26 +5,16 @@
       "id": "f1",
       "name": "Formel 1",
       "color": "#E10600",
-      "calendar": "f1/2027.json"
+      "calendar": "f1/2026.json"
     },
     {
       "id": "motogp",
       "name": "MotoGP",
       "color": "#F28C28",
-      "calendar": "motogp/2027.json"
+      "calendar": "motogp/2026.json"
     }
   ],
   "calendars": [
-    {
-      "seriesId": "f1",
-      "season": 2027,
-      "path": "f1/2027.json"
-    },
-    {
-      "seriesId": "motogp",
-      "season": 2027,
-      "path": "motogp/2027.json"
-    },
     {
       "seriesId": "motogp",
       "season": 2026,

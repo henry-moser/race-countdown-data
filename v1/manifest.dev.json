@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "series": [
+    {
+      "id": "f1",
+      "name": "Formel 1",
+      "color": "#E10600",
+      "calendar": "f1/2027.json"
+    },
+    {
+      "id": "motogp",
+      "name": "MotoGP",
+      "color": "#F28C28",
+      "calendar": "motogp/2027.json"
+    }
+  ],
+  "calendars": [
+    {
+      "seriesId": "f1",
+      "season": 2027,
+      "path": "f1/2027.json"
+    },
+    {
+      "seriesId": "motogp",
+      "season": 2027,
+      "path": "motogp/2027.json"
+    },
+    {
+      "seriesId": "motogp",
+      "season": 2026,
+      "path": "motogp/2026.json"
+    },
+    {
+      "seriesId": "f1",
+      "season": 2026,
+      "path": "f1/2026.json"
+    }
+  ],
+  "defaultLanguage": "en",
+  "sessionTypes": {
+    "practice": {
+      "de": "Training",
+      "en": "Practice"
+    },
+    "practice_1": {
+      "de": "1. Freies Training",
+      "en": "Free Practice 1"
+    },
+    "practice_2": {
+      "de": "2. Freies Training",
+      "en": "Free Practice 2"
+    },
+    "practice_3": {
+      "de": "3. Freies Training",
+      "en": "Free Practice 3"
+    },
+    "warm_up": {
+      "de": "Warm-up",
+      "en": "Warm-up"
+    },
+    "qualifying": {
+      "de": "Qualifying",
+      "en": "Qualifying"
+    },
+    "qualifying_1": {
+      "de": "Qualifying 1",
+      "en": "Qualifying 1"
+    },
+    "qualifying_2": {
+      "de": "Qualifying 2",
+      "en": "Qualifying 2"
+    },
+    "race": {
+      "de": "Rennen",
+      "en": "Race"
+    },
+    "sprint": {
+      "de": "Sprint",
+      "en": "Sprint"
+    },
+    "sprint_qualifying": {
+      "de": "Sprint-Qualifying",
+      "en": "Sprint Qualifying"
+    }
+  }
+}

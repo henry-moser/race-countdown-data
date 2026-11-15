@@ -4,6 +4,41 @@
   "season": 2026,
   "events": [
     {
+      "id": "f1-2026-brazil",
+      "round": 20,
+      "name": "🇧🇷 Grande Prêmio de Sao Paulo",
+      "country": "BR",
+      "circuit": "Autódromo José Carlos Pace",
+      "timeZone": "America/Sao_Paulo",
+      "sessions": [
+        {
+          "id": "f1-2026-brazil-fp1",
+          "type": "practice_1",
+          "start": "2026-11-06T15:30:00Z"
+        },
+        {
+          "id": "f1-2026-brazil-fp2",
+          "type": "practice_2",
+          "start": "2026-11-06T19:00:00Z"
+        },
+        {
+          "id": "f1-2026-brazil-fp3",
+          "type": "practice_3",
+          "start": "2026-11-07T14:30:00Z"
+        },
+        {
+          "id": "f1-2026-brazil-qualifying",
+          "type": "qualifying",
+          "start": "2026-11-07T18:00:00Z"
+        },
+        {
+          "id": "f1-2026-brazil-race",
+          "type": "race",
+          "start": "2026-11-08T17:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "f1-2026-las-vegas",
       "round": 21,
       "name": "🇺🇸 Las Vegas GP 2026",
@@ -13,32 +48,27 @@
       "sessions": [
         {
           "id": "f1-2026-las-vegas-fp1",
-          "type": "practice",
-          "name": "1. Freies Training",
+          "type": "practice_1",
           "start": "2026-11-20T00:30:00Z"
         },
         {
           "id": "f1-2026-las-vegas-fp2",
-          "type": "practice",
-          "name": "2. Freies Training",
+          "type": "practice_2",
           "start": "2026-11-20T04:00:00Z"
         },
         {
           "id": "f1-2026-las-vegas-fp3",
-          "type": "practice",
-          "name": "3. Freies Training",
+          "type": "practice_3",
           "start": "2026-11-21T00:30:00Z"
         },
         {
           "id": "f1-2026-las-vegas-qualifying",
           "type": "qualifying",
-          "name": "Qualifying",
           "start": "2026-11-21T04:00:00Z"
         },
         {
           "id": "f1-2026-las-vegas-race",
           "type": "race",
-          "name": "Rennen",
           "start": "2026-11-22T04:00:00Z"
         }
       ]
@@ -53,32 +83,27 @@
       "sessions": [
         {
           "id": "f1-2026-qatar-fp1",
-          "type": "practice",
-          "name": "1. Freies Training",
+          "type": "practice_1",
           "start": "2026-11-27T13:30:00Z"
         },
         {
           "id": "f1-2026-qatar-fp2",
-          "type": "practice",
-          "name": "2. Freies Training",
+          "type": "practice_2",
           "start": "2026-11-27T17:00:00Z"
         },
         {
           "id": "f1-2026-qatar-fp3",
-          "type": "practice",
-          "name": "3. Freies Training",
+          "type": "practice_3",
           "start": "2026-11-28T14:30:00Z"
         },
         {
           "id": "f1-2026-qatar-qualifying",
           "type": "qualifying",
-          "name": "Qualifying",
           "start": "2026-11-28T18:00:00Z"
         },
         {
           "id": "f1-2026-qatar-race",
           "type": "race",
-          "name": "Rennen",
           "start": "2026-11-29T16:00:00Z"
         }
       ]
@@ -93,32 +118,27 @@
       "sessions": [
         {
           "id": "f1-2026-abu-dhabi-fp1",
-          "type": "practice",
-          "name": "1. Freies Training",
+          "type": "practice_1",
           "start": "2026-12-04T09:30:00Z"
         },
         {
           "id": "f1-2026-abu-dhabi-fp2",
-          "type": "practice",
-          "name": "2. Freies Training",
+          "type": "practice_2",
           "start": "2026-12-04T13:00:00Z"
         },
         {
           "id": "f1-2026-abu-dhabi-fp3",
-          "type": "practice",
-          "name": "3. Freies Training",
+          "type": "practice_3",
           "start": "2026-12-05T10:30:00Z"
         },
         {
           "id": "f1-2026-abu-dhabi-qualifying",
           "type": "qualifying",
-          "name": "Qualifying",
           "start": "2026-12-05T14:00:00Z"
         },
         {
           "id": "f1-2026-abu-dhabi-race",
           "type": "race",
-          "name": "Rennen",
           "start": "2026-12-06T13:00:00Z"
         }
       ]

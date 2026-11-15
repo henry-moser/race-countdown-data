@@ -3,15 +3,19 @@
   "series": [
     {
       "id": "f1",
-      "name": "Formel 1",
-      "color": "#E10600",
-      "calendar": "f1/2026.json"
+      "name": {
+        "de": "Formel 1",
+        "en": "Formula 1"
+      },
+      "color": "#E10600"
     },
     {
       "id": "motogp",
-      "name": "MotoGP",
-      "color": "#F28C28",
-      "calendar": "motogp/2026.json"
+      "name": {
+        "de": "MotoGP",
+        "en": "MotoGP"
+      },
+      "color": "#F28C28"
     }
   ],
   "calendars": [
